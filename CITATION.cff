@@ -1,0 +1,14 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+
+
+@software{floor_broekgaarden_2023_7810953,
+  author       = {Floor Broekgaarden},
+  title        = {FloorBroekgaarden/PhDThesisFigures: v1.1},
+  month        = apr,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {v1.1},
+  doi          = {10.5281/zenodo.7810953},
+  url          = {https://doi.org/10.5281/zenodo.7810953}
+}
